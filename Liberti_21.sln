@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Liberti_21_lesson_1", "Liberti_21\Liberti_21.vcxproj", "{D7893A2E-A67B-469E-A4AF-1F7EF0EF47F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Liberti_21_lesson_2", "Liberti_21_lesson_2\Liberti_21_lesson_2.vcxproj", "{C7E444D4-3CA7-4A74-BB69-9DF0512D9FA3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Liberti_21_lesson_3", "Liberti_21_lesson_3\Liberti_21_lesson_3.vcxproj", "{68D806C5-49EF-489C-BF63-871F16117CED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Liberti_21_lesson_15_delegation", "Liberti_21_lesson_15_delegation\Liberti_21_lesson_15_delegation.vcxproj", "{0DC489AF-0B98-43D1-999A-86968C65C90F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7893A2E-A67B-469E-A4AF-1F7EF0EF47F1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D7893A2E-A67B-469E-A4AF-1F7EF0EF47F1}.Debug|Win32.Build.0 = Debug|Win32
+		{D7893A2E-A67B-469E-A4AF-1F7EF0EF47F1}.Release|Win32.ActiveCfg = Release|Win32
+		{D7893A2E-A67B-469E-A4AF-1F7EF0EF47F1}.Release|Win32.Build.0 = Release|Win32
+		{C7E444D4-3CA7-4A74-BB69-9DF0512D9FA3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7E444D4-3CA7-4A74-BB69-9DF0512D9FA3}.Debug|Win32.Build.0 = Debug|Win32
+		{C7E444D4-3CA7-4A74-BB69-9DF0512D9FA3}.Release|Win32.ActiveCfg = Release|Win32
+		{C7E444D4-3CA7-4A74-BB69-9DF0512D9FA3}.Release|Win32.Build.0 = Release|Win32
+		{68D806C5-49EF-489C-BF63-871F16117CED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{68D806C5-49EF-489C-BF63-871F16117CED}.Debug|Win32.Build.0 = Debug|Win32
+		{68D806C5-49EF-489C-BF63-871F16117CED}.Release|Win32.ActiveCfg = Release|Win32
+		{68D806C5-49EF-489C-BF63-871F16117CED}.Release|Win32.Build.0 = Release|Win32
+		{0DC489AF-0B98-43D1-999A-86968C65C90F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0DC489AF-0B98-43D1-999A-86968C65C90F}.Debug|Win32.Build.0 = Debug|Win32
+		{0DC489AF-0B98-43D1-999A-86968C65C90F}.Release|Win32.ActiveCfg = Release|Win32
+		{0DC489AF-0B98-43D1-999A-86968C65C90F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
