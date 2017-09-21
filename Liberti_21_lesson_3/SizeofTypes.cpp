@@ -12,6 +12,7 @@ int main()
   cout << "The size of a float is : \t\t" << sizeof(float) << " bytes.\n";
   cout << "The size of a double is : \t\t" << sizeof(double) << " bytes.\n";
   cout << "The size of a bool is : \t\t" << sizeof(bool) << " bytes.\n";
+  cout << "The size of a bool*2 is : \t\t" << sizeof(bool) + sizeof(bool) << " bytes.\n";
 
   _getch();
   return 0;
