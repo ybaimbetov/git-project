@@ -22,7 +22,11 @@ int main()
   cout << "The size of a bool is : \t\t" << sizeof(bool) << " bytes.\n";
   
   
+<<<<<<< HEAD
   cout << "The size of a float is : \t\t" << sizeof(float) << " bytes.\n";
+=======
+  cout << " Branch master.\n";
+>>>>>>> master
  
   _getch();
   return 0;
